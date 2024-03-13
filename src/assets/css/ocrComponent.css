@@ -1,0 +1,12 @@
+.crop-image {
+    max-height: 400px;
+}
+
+.preview {
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-input {
+    height: 700px;
+}
