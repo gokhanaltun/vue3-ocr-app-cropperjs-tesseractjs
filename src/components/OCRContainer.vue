@@ -8,7 +8,7 @@ import "cropperjs/dist/cropper.css"
 import { createWorker } from 'tesseract.js';
 
 
-const imageSrc = "/image.jpg"
+const imageSrc = "./image.jpg"
 
 const state = reactive({
     imageRef: null,
